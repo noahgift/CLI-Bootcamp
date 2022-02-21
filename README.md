@@ -40,3 +40,9 @@ Ideas on how to quickly learn to build command-line tools
 * Pick a Python command-line tool library you are not familar with and build a module with a function that is called in a CLI.
 * Customize your `~/.bashrc` with at least one alias, function and variable.
 * Build a Bash CLI tool
+
+## References
+
+* [Python Command Line Tools Course](https://learning.oreilly.com/videos/python-command-line/50131VIDEOPAIML/)
+* [Python Command Line Tools-Book](https://learning.oreilly.com/library/view/python-command-line/61619PAIML/)
+* [Python CI/CD for the Command-Line](https://learning.oreilly.com/videos/python-ci-cd-for/10092021VIDEOPAIML/)
