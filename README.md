@@ -37,12 +37,20 @@ Ideas on how to quickly learn to build command-line tools
 
 ## Challenges
 
-* Pick a Python command-line tool library you are not familar with and build a module with a function that is called in a CLI.  * A few examples:  
+### Python Challenges
+* Pick a Python command-line tool library you are not familar with and build a module with a function that is called in a CLI.  A few examples:  
   * [python-fire](https://github.com/google/python-fire), 
   * [argparse](https://docs.python.org/3/library/argparse.html)
   * [python-click](https://click.palletsprojects.com/en/8.0.x/)
+* Write a test for your python CLI tool
+* Containerize your Python CLI tool and deploy to a public container repo like Github or Docker.
+
+### Bash and ZSH Challenges
 * Customize your `~/.bashrc` with at least one alias, function and variable.
 * Build a Bash CLI tool that takes options
+* Truncate a large file and randomly sample at the same time
+* Write a find command and a locate command
+* Install [ohmzsh](https://ohmyz.sh), what did you learn?
 
 ## References
 
