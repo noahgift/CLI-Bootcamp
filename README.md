@@ -52,6 +52,13 @@ Ideas on how to quickly learn to build command-line tools
 * Write a find command and a locate command
 * Install [ohmzsh](https://ohmyz.sh), what did you learn?
 
+### Advanced Challenges
+
+* Write a CLI in a language you don't know:
+
+  * [cli-rosetta](https://github.com/noahgift/cli-rosetta)
+  * [Bash, Powershell and C# CLI](https://github.com/noahgift/DotNet-AWS/tree/main/chapters/chap1)
+
 ## References
 
 * [Python Command Line Tools Course](https://learning.oreilly.com/videos/python-command-line/50131VIDEOPAIML/)
