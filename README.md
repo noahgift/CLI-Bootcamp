@@ -64,3 +64,4 @@ Ideas on how to quickly learn to build command-line tools
 * [Python Command Line Tools Course](https://learning.oreilly.com/videos/python-command-line/50131VIDEOPAIML/)
 * [Python Command Line Tools-Book](https://learning.oreilly.com/library/view/python-command-line/61619PAIML/)
 * [Python CI/CD for the Command-Line](https://learning.oreilly.com/videos/python-ci-cd-for/10092021VIDEOPAIML/)
+* [Nuclear Powered CLI Tools](https://github.com/noahgift/nuclear_powered_command_line_tools)
