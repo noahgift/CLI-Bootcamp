@@ -54,7 +54,7 @@ Ideas on how to quickly learn to build command-line tools
 
 #### Additional Thoughts on Challenge
 
-* How tiny can you make your container (hint try [alpine python](https://hub.docker.com/layers/python/library/python/3.9.0-alpine3.12/images/sha256-df77433749466a68bb599009753c9e5a8efaa3dd9c16450d442bb32f4c1fad4e?context=explore)?  What is the approach that shrinks the size?
+* How tiny can you make your container (hint try [alpine python](https://hub.docker.com/layers/python/library/python/3.9.0-alpine3.12/images/sha256-df77433749466a68bb599009753c9e5a8efaa3dd9c16450d442bb32f4c1fad4e?context=explore))?  What is the approach that shrinks the size?
 * Can you lint your container with a linting tool like:  hadolint?  What about security scanning?
 * Why would it be impressive to have a docker pull command for a CLI on your resume?
 
