@@ -50,7 +50,15 @@ Ideas on how to quickly learn to build command-line tools
   * [argparse](https://docs.python.org/3/library/argparse.html)
   * [python-click](https://click.palletsprojects.com/en/8.0.x/)
 * Write a test for your python CLI tool
-* Containerize your Python CLI tool and deploy to a public container repo like Github or Docker.  Here is an [example project](https://github.com/noahgift/container-from-scratch-python).
+* Containerize your Python CLI tool and deploy to a public container repo like [Github Container Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry) or [Docker Hub](https://hub.docker.com) or [Amazon Public Container Registry](https://aws.amazon.com/blogs/aws/amazon-ecr-public-a-new-public-container-registry/).  Here is an [example project](https://github.com/noahgift/container-from-scratch-python).
+
+#### Additional Thoughts on Challenge
+
+* How tiny can you make your container?  What is the approach that shrinks the size?
+* Can you lint your container with a linting tool like:  hadolint?  What about security scanning?
+* Why would it be impressive to have a docker pull command for a CLI on your resume?
+
+
 
 ### Advanced Challenges
 
