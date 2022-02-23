@@ -60,6 +60,11 @@ Ideas on how to quickly learn to build command-line tools
 * Can you automatically build and push new containers in Github Actions?  [Hint...yes](https://github.com/noahgift/Python-MLOps-Cookbook/blob/main/.github/workflows/pythonapp.yml#L25).
 * Can you build a GPT-3 CLI tool?  https://openai.com/blog/openai-api/
 
+*GPT 3*:  
+* Book:  https://learning.oreilly.com/library/view/gpt-3/9781098113612/ 
+* Interview:  https://learning.oreilly.com/videos/52-weeks-of/021822022VIDEOPAIML/
+
+
 ### Advanced Challenges
 
 * Write a CLI in a language you don't know:
