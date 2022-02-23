@@ -58,7 +58,7 @@ Ideas on how to quickly learn to build command-line tools
 * Can you lint your container with a linting tool like:  [hadolint?](https://github.com/hadolint/hadolint#how-to-use)  What about security scanning?
 * Why would it be impressive to have a docker pull command for a CLI on your resume?
 * Can you automatically build and push new containers in Github Actions?  [Hint...yes](https://github.com/noahgift/Python-MLOps-Cookbook/blob/main/.github/workflows/pythonapp.yml#L25).
-
+* Can you build a GPT-3 CLI tool?  https://openai.com/blog/openai-api/
 
 ### Advanced Challenges
 
