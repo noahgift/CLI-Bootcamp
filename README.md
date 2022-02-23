@@ -50,7 +50,7 @@ Ideas on how to quickly learn to build command-line tools
   * [argparse](https://docs.python.org/3/library/argparse.html)
   * [python-click](https://click.palletsprojects.com/en/8.0.x/)
 * Write a test for your python CLI tool
-* Containerize your Python CLI tool and deploy to a public container repo like Github or Docker.
+* Containerize your Python CLI tool and deploy to a public container repo like Github or Docker.  Here is an [example project](https://github.com/noahgift/container-from-scratch-python).
 
 ### Advanced Challenges
 
